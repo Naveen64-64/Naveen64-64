@@ -4,16 +4,16 @@
 
 I'm a passionate developer interested in building scalable, reliable, and user-friendly applications. I work with Java Full Stack and MERN Stack technologies and continuously improve my skills by developing real-world projects.
 
-- 🚀 Working on Java Full Stack and MERN Stack projects.
-- 📚 Learning and improving my skills in Spring Boot, Hibernate, and software testing.
-- 🗄️ Familiar with relational and NoSQL databases.
-- 🐍 Knowledge of Python basics and Machine Learning concepts.
-- 🐳 Exploring containerization and application deployment using Docker.
-- 💻 Focused on writing clean code and building practical software solutions.
+-  Working on Java Full Stack and MERN Stack projects.
+-  Learning and improving my skills in Spring Boot, Hibernate, and software testing.
+-  Familiar with relational and NoSQL databases.
+-  Knowledge of Python basics and Machine Learning concepts.
+-  Exploring containerization and application deployment using Docker.
+-  Focused on writing clean code and building practical software solutions.
 
 ---
 
-## 💻 Tech Stack:
+##  Tech Stack:
 
 <p>
   <!-- Languages -->
@@ -47,7 +47,7 @@ I'm a passionate developer interested in building scalable, reliable, and user-f
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 * **Student Management System**
   * A Spring Boot backend featuring CRUD operations, DTOs, validation, exception handling, and REST APIs.
@@ -56,15 +56,7 @@ I'm a passionate developer interested in building scalable, reliable, and user-f
 
 ---
 
-## 📊 GitHub Stats:
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveen64-64&show_icons=true&theme=tokyonight" alt="Naveen's GitHub Stats" />
-</p>
-
----
-
-## 📞 Connect With Me
+##  Connect With Me
 
 - **LinkedIn:** [Dasari Naveen Kumar](https://www.linkedin.com/)
 - **Email:** dasarinaveenkumar277@gmail.com
